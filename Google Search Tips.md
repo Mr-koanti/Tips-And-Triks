@@ -1,4 +1,4 @@
-# Google dork cheatsheet
+# Google  cheatsheet 
 
 ## Search filters
 | Filter          | Description                                        | Example                              |
